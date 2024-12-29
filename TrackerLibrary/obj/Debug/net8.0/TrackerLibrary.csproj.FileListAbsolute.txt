@@ -1,0 +1,12 @@
+D:\C#\Tournament App\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.deps.json
+D:\C#\Tournament App\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.dll
+D:\C#\Tournament App\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.pdb
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.AssemblyInfoInputs.cache
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.AssemblyInfo.cs
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.dll
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\refint\TrackerLibrary.dll
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.pdb
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\ref\TrackerLibrary.dll
+D:\C#\Tournament App\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.csproj.AssemblyReference.cache
